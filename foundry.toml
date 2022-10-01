@@ -1,0 +1,13 @@
+[default]
+src = 'src'
+out = 'out'
+libs = ['lib']
+gas_reports = ["Vault"]
+optimizer = true
+optimizer_runs = 2000
+verbosity = 2
+
+# See more config options https://github.com/foundry-rs/foundry/tree/master/config
+
+[ci]
+verbosity = 2

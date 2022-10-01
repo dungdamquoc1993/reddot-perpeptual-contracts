@@ -1,0 +1,4 @@
+{
+  "solidity.packageDefaultDependenciesDirectory": "lib",
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
